@@ -1,0 +1,22 @@
+{
+	"name": "supunsathsara.github.io",
+	"short_name": "@supunsathsara",
+	"start_url": "./",
+	"background_color": "#323232",
+	"theme_color": "#323232",
+	"scope": "/",
+	"display": "standalone",
+	"icons": [
+		{
+		"src": "/assets/logo192.png",
+		"sizes": "192x192",
+		"type": "image/png"
+		},
+		{
+		"src": "/assets/logo512.png",
+		"sizes": "512x512",
+		"type": "image/png"
+		}
+
+	]
+}

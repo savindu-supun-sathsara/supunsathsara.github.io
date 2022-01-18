@@ -213,7 +213,7 @@
               ) {
                 var r = t[e];
                 r.getAttribute("data-src") &&
-                  r.setAttribute("src", r.getAttribute("data-src"));
+                  r.setAttribute.find("src", r.getAttribute("data-src"));
               }
             })(),
               (function () {
